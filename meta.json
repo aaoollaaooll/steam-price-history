@@ -1,0 +1,13 @@
+{
+  "countries": {
+    "MX": {
+      "currency": "MXN",
+      "since": 1794243303,
+      "lastRun": 1794243458,
+      "lastFull": 1794243458,
+      "apps": 175036,
+      "withLow": 18374
+    }
+  },
+  "note": "Precios en centavos de la moneda indicada. Fechas en segundos unix (UTC)."
+}
