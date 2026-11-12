@@ -3,10 +3,10 @@
     "MX": {
       "currency": "MXN",
       "since": 1794243303,
-      "lastRun": 1794443848,
-      "lastFull": 1794396409,
-      "apps": 175743,
-      "withLow": 21974
+      "lastRun": 1794484154,
+      "lastFull": 1794484154,
+      "apps": 175934,
+      "withLow": 22081
     }
   },
   "note": "Precios en centavos de la moneda indicada. Fechas en segundos unix (UTC)."
