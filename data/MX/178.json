@@ -549,7 +549,7 @@
 "1939890":{"n":"Simon the Sorcerer Origins","h":[[1794243458,28299,28299]]},
 "1941170":{"n":"The Jelly Adventure","h":[[1794243458,5949,5949]]},
 "1942450":{"n":"Gemlands","h":[[1794243329,1889,2699],[1794443848,2699,2699]]},
-"1943730":{"n":"Wicked Island","h":[[1794243458,38999,38999]]},
+"1943730":{"n":"Wicked Island","h":[[1794243458,38999,38999],[1794830539,41999,41999]]},
 "1945010":{"n":"Achievement Cage","h":[[1794243458,2699,2699]]},
 "1946290":{"n":"Trainz Plus DLC - RZD-UZ-RIC Wagons Praha","h":[[1794243329,7959,19899],[1794274157,19899,19899]]},
 "1946546":{"n":"Trainz Plus DLC - NYC J3a-Dreyfuss streamlined Hudson","h":[[1794243443,4559,22799],[1794274157,22799,22799]]},
@@ -811,7 +811,7 @@
 "2920370":{"n":"Trio Tactics TD","h":[[1794243458,2699,2699]]},
 "2921650":{"n":"Jesus Christ Simulator","h":[[1794243458,3075,3075]]},
 "2925490":{"n":"Into the M.A.W.","h":[[1794243458,17899,17899]]},
-"2926770":{"n":"Granblue Fantasy Versus: Rising - Character Costume: Knight's Finery (Lancelot)","h":[[1794243458,8449,8449]]},
+"2926770":{"n":"GBVSR - Character Costume: Knight's Finery (Lancelot)","h":[[1794243458,8449,8449]]},
 "2928050":{"n":"Carpe Dino: Seize the Date","h":[[1794243458,6449,6449]]},
 "2934450":{"n":"Crime Boss: Rockay City - Dragon's Gold Cup","h":[[1794243458,10199,10199]]},
 "2939570":{"n":"Tower Knight","h":[[1794243458,6449,6449]]},
@@ -1301,6 +1301,7 @@
 "5426610":{"n":"Mostroscopy - Comic #2","h":[[1794243458,2799,2799]]},
 "5429170":{"n":"Broke to Broker","h":[[1794396409,15999,15999]]},
 "5431730":{"n":"Footy Bash - Premiership Edition","h":[[1794243458,5399,5399]]},
+"5457330":{"n":"AdventureDefence","h":[[1794830539,1799,1799]]},
 "5549490":{"n":"Reality Drift - Digital Artbook","h":[[1794443848,4859,5399]]},
 "5585330":{"n":"Chromosome Evil 2 artbook","h":[[1794484154,2799,2799]]}
 }
